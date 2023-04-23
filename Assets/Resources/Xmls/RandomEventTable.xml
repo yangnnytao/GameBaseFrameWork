@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Row>
+   <id>1</id>
+   <name>入口大厅</name>
+   <posX>20</posX>
+   <posY>20</posY>
+   <posZ>1</posZ>
+   <event>1,2,3,4,5</event>
+  </Row>
+  <Row>
+   <id>2</id>
+   <name>2搂转折点</name>
+   <posX>5</posX>
+   <posY>5</posY>
+   <posZ>2</posZ>
+   <event>6,1,2,7</event>
+  </Row>
+</Table>

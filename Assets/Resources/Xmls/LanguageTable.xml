@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Row>
+   <id>1</id>
+   <chinaDesc>向左走</chinaDesc>
+  </Row>
+  <Row>
+   <id>2</id>
+   <chinaDesc>向右走</chinaDesc>
+  </Row>
+  <Row>
+   <id>3</id>
+   <chinaDesc>上楼</chinaDesc>
+  </Row>
+  <Row>
+   <id>4</id>
+   <chinaDesc>左边后门</chinaDesc>
+  </Row>
+  <Row>
+   <id>5</id>
+   <chinaDesc>右边后门</chinaDesc>
+  </Row>
+  <Row>
+   <id>6</id>
+   <chinaDesc>查看相框</chinaDesc>
+  </Row>
+  <Row>
+   <id>7</id>
+   <chinaDesc>返回</chinaDesc>
+  </Row>
+</Table>
